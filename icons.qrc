@@ -1,0 +1,8 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+        <file>icons/contextHelp.png</file>
+        <file>icons/bagGeotiffWatermark.png</file>
+        <file>icons/data.dat</file>
+ </qresource>
+ </RCC>
+
